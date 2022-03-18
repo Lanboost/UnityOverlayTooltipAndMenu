@@ -1,6 +1,6 @@
 ﻿## Find Example at
 
-    https://lanboost.github.io/
+https://lanboost.github.io/
 
 ## How to
 
