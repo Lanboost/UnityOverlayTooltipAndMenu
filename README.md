@@ -1,9 +1,5 @@
-﻿# Example
+﻿FIND Example at https://lanboost.github.io/
 
-https://lanboost.github.io/LanboostPathfindingSharp/
-
-
-## How to
 
 1. Add Src/PopupLayer.prefab to the bottom of your Canvas heirarchy
 
